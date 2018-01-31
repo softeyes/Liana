@@ -1,0 +1,226 @@
+body {
+    background-color: white;
+}
+
+.navbar-1 .navbar-default {
+    margin-bottom: 0;
+}
+
+.navbar-1 .navbar-nav button {
+    margin-top: 8px;
+    background-color: white;
+    color: black;
+}
+
+.navbar-1 .navbar-default {
+    background-color: olive;
+}
+
+.navbar-1 .navbar-default .navbar-collapse .navbar-right a {
+    color: white;
+}
+
+.navbar-2 .navbar-default {
+    margin-bottom: 0;
+    background-color: white;
+}
+
+.navbar-2 .navbar-default .container .collapse ul {
+    padding-top: 0.75em;
+}
+
+.navbar-2 .navbar-default .container .collapse .navbar-nav {
+    padding-top: 0.75em;
+}
+
+
+.navbar-2 img {
+    width: 200px;
+}
+
+.input-group-btn .btn-default {
+    background-color: olive;
+}
+
+.typing-image {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.typing-image img {
+    width: 100%;
+    opacity: 0.9;
+}
+
+.typing-image .btn-danger {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.centered-text {
+    font-size: 3em;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.image-row .container-fluid .row .thumbnail {
+    margin: 4em auto;
+    padding: 0;
+}
+
+.thumbnail {
+    position: relative;
+    border: 0;
+    width: 60%;
+    border-radius: 0;
+}
+
+.thumbnail p {
+    font-size: 1.5em;
+    color: white;
+}
+
+.image-row .thumbnail img,
+.typing-image img {
+    filter: brightness(60%);
+}
+
+.caption {
+    position: absolute;
+    top: 40%;
+    width: 100%;
+}
+
+.large-text {
+    font-size: 4em;
+    text-align: center;
+}
+
+.small-text {
+    font-size: 2em;
+    text-align: center;
+}
+
+.stats {
+    padding-bottom: 4em;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+h2 {
+    text-align: center;
+    padding: 1em;
+}
+
+.news {
+    background-color: lightgoldenrodyellow;
+    padding-bottom: 6em;
+}
+
+.news .container-fluid .news-updates {
+    padding: 0 8em 8em 4em;
+}
+
+.date {
+    font-size: 0.75em;
+    padding-top: 5em;
+}
+
+.news-summary {
+    font-size: 1.25em;
+}
+
+.news-box {
+    height: 15em;
+    border: 1px lightgray solid;
+    background-color: white;
+    overflow: scroll;
+}
+
+.references .col-md-3 .thumbnail img {
+    padding-bottom: 13em;
+}
+
+.col-md-3 .thumbnail {
+    text-align: center;
+    float: none !important;
+    display: inline-block;
+}
+
+.col-md-3 .thumbnail .caption p {
+    color: black;
+    font-size: 1em;
+}
+
+.col-md-3 .thumbnail .caption {
+    padding-left: 5px;
+    padding-right: 12px;
+    color: black;
+}
+
+.references {
+    padding-bottom: 5em;
+    border-bottom: 1px solid darkgray;
+}
+
+.panel {
+    border: 1px lightgray solid;
+}
+
+.subscribe {
+    margin: 3em 0 4em 0;
+}
+.subscribe h1, .form-inline {
+    padding-bottom: 0.6em;
+}
+
+.subscribe p {
+    line-height: 50%;
+}   
+
+.space {
+    height: 0.6em;
+}
+
+footer .container-fluid {
+    background-color: black;
+    color: white;
+    height: 20em;
+}
+
+.left-column p{
+    margin: 0;
+}
+
+.left-column .button {
+    margin: 1em 0 1.5em 0;
+}
+
+.liana {
+    padding: 3em 0 2em 0;
+}
+
+.right-column .icons ul li img{
+    width: 40px;
+    display: inline-block;     
+}
+
+.right-column .icons ul{
+    padding-left: 20em;
+}
+
+
+.right-column ul li{
+    display: inline-block;
+    padding-top: 3.5em;
+}
+
+.right-column ul li a{
+    color: white;
+    padding: 0 5px;
+}
